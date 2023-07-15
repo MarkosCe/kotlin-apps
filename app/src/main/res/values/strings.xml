@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">AndroidKotlin</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="result">Tu resultado</string>
+    <string name="recalculate">Tu resultado</string>
+
+    <!--IMCApp-->
+    <string name="error">Error</string>
+    <string name="underweight_title">Bajo peso</string>
+    <string name="underweight_description">Estas por debajo de lo optimo para tu peso y altura.</string>
+    <string name="normal_title">Normal</string>
+    <string name="normal_description">Estas en lo optimo para tu peso y altura.</string>
+    <string name="overweight_title">Sobrepeso</string>
+    <string name="overweight_description">Estas por encima de lo optimo para tu peso y altura.</string>
+    <string name="obesity_title">Obesidad</string>
+    <string name="obesity_description">Estas MUY por encima de lo optimo para tu peso y altura.</string>
+
+    <!--TODOApp-->
+    <string name="todo_title">a darle atomos</string>
+    <string name="todo_category">categorias</string>
+    <string name="todo_task">tareas</string>
+    <string name="todo_dialog_add_task">Agrega la tarea</string>
+    <string name="todo_dialog_category_business">Negocios</string>
+    <string name="todo_dialog_category_personal">Personal</string>
+    <string name="todo_dialog_category_other">Otros</string>
+    <string name="todo_add_task_button">Crear tarea</string>
+
+    <!--settings-->
+    <string name="settings_title_dark_mode">Modo oscuro</string>
+    <string name="settings_description_dark_mode">Activa el modo oscuro para un cambio visual</string>
+
+</resources>
